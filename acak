@@ -1,29 +1,58 @@
-#EXTINF:-1 group-title="Indonesia TV",1
-http://210.210.155.37/qwr9ew/s/s01/index1.m3u8
+#EXTM3U
 
-#EXTINF:-1 group-title="Indonesia TV",2
-http://210.210.155.37/qwr9ew/s/s02/index1.m3u8
+#EXTINF:-1 group-title="Berita",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",3
+#EXTINF:-1 group-title="Berita",CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 group-title="Berita",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",SCTV
+http://210.210.155.35/qwr9ew/s/s03/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",TVRI
+http://210.210.155.35/qwr9ew/s/s11/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index1.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",4
-http://210.210.155.37/qwr9ew/s/s04/index1.m3u8
-
-#EXTINF:-1 group-title="Indonesia TV",5
-http://210.210.155.37/qwr9ew/s/s05/index1.m3u8
-
-#EXTINF:-1 group-title="Indonesia TV",6
-http://210.210.155.37/qwr9ew/s/s06/index1.m3u8
-
-#EXTINF:-1 group-title="Indonesia TV",7
+#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="Indonesia TV",ANTV
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",8
-http://210.210.155.37/qwr9ew/s/s08/index1.m3u8
+#EXTINF:-1 group-title="Indonesia TV",rodjatv
+http://210.210.155.37/qwr9ew/s/s14/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",9
-http://210.210.155.37/qwr9ew/s/s09/index1.m3u8
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="Movies",Thrill (576p)
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",10
-http://210.210.155.37/qwr9ew/s/s10/index1.m3u8
+#EXTINF:-1 group-title="Indonesia TV",Badar TV
+https://e1.siar.us/badartv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="PujaTVAceh.id" tvg-logo="https://i.imgur.com/0TqABCL.png" group-title="Undefined",Puja TV Aceh
+https://v6.siar.us/pujatv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ADiTV.id" tvg-logo="https://i.imgur.com/b4IDBG7.png" group-title="Undefined",ADiTV
+https://v2.siar.us/aditv/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Religious",Ahsan TV (360p)
+https://h1.intechmedia.net/intech/ch4.m3u8
+
+#EXTINF:-1 tvg-id="AlBinaaTV.id" tvg-logo="https://i.imgur.com/MTR4GuF.png" group-title="Undefined",Al Binaa TV (720p)
+https://master.antosatriani.workers.dev/channel/UCdq-DJ5MS7qjd1aXPFg71Yg.m3u8
+
+#EXTINF:-1 tvg-id="BiznetKids.id" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="Kids",Biznet Kids (480p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+
+
